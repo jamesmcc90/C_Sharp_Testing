@@ -2,7 +2,7 @@
 {
     static void Main(string[] args)
     {
-        //Call the "Name" method defined above
+        //Call the "Name" method defined in Name()
 
         Name();
         MyInput();
