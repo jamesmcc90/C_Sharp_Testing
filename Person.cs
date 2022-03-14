@@ -40,7 +40,9 @@
         {
             Environment.Exit(0);
         }
-        
+
+        Console.WriteLine();
+        Console.WriteLine(); Console.WriteLine(); Console.WriteLine();
     }
 
 }
